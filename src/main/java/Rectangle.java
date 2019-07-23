@@ -30,4 +30,12 @@ public class Rectangle {
     public int getArea() {
         return width * height;
     }
+
+    public int changeWidth() {
+        if(width <= height) {
+            width = height + 1;
+            return width;
+        }
+        return 0;
+    }
 }

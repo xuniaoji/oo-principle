@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="261331c2-abff-439e-8e14-885aa504a587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SquareTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/RectangleTDD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/ReactangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/ReactangleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ReactangleTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ReactangleTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RectangleTDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/SquareTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-SquareTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ReactangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReactangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SquareTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -60,20 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ReactangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="6" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SquareTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="310">
+              <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,10 +52,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SquareTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="316">
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -120,10 +102,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/RectangleTDD.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ReactangleTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/Square.java" />
         <option value="$PROJECT_DIR$/src/test/java/SquareTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReactangleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Rectangle.java" />
       </list>
     </option>
   </component>
@@ -218,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.SquareTest.shouldReturn200WhenExecuteSettingLength200AndExcuteGetLengthGivenLength100">
+  <component name="RunManager" selected="Gradle.ReactangleTest.shouldReturn11WhenExecuteChangeWidthGivenWidth5Height10">
     <configuration name="ReactangleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -259,12 +241,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ReactangleTest.shouldReturn5000WhenExecuteGetAreaAndGivenWidth100Height50" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ReactangleTest.shouldReturn11WhenExecuteChangeWidthGivenWidth5Height10" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ReactangleTest.shouldReturn5000WhenExecuteGetAreaAndGivenWidth100Height50&quot;" />
+        <option name="scriptParameters" value="--tests &quot;ReactangleTest.shouldReturn11WhenExecuteChangeWidthGivenWidth5Height10&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -279,12 +261,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ReactangleTest.shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ReactangleTest.shouldReturn5000WhenExecuteGetAreaAndGivenWidth100Height50" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ReactangleTest.shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100&quot;" />
+        <option name="scriptParameters" value="--tests &quot;ReactangleTest.shouldReturn5000WhenExecuteGetAreaAndGivenWidth100Height50&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -321,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ReactangleTest.shouldReturn11WhenExecuteChangeWidthGivenWidth5Height10" />
         <item itemvalue="Gradle.SquareTest.shouldReturn200WhenExecuteSettingLength200AndExcuteGetLengthGivenLength100" />
         <item itemvalue="Gradle.ReactangleTest" />
         <item itemvalue="Gradle.ReactangleTest.shouldReturn5000WhenExecuteGetAreaAndGivenWidth100Height50" />
         <item itemvalue="Gradle.ReactangleTest.shouldReturn0WhenExecuteSettingHeight0AndExcuteGetHeightGivenHeight100" />
-        <item itemvalue="Gradle.ReactangleTest.shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100" />
       </list>
     </recent_temporary>
   </component>
@@ -339,17 +321,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563875212469</updated>
-      <workItem from="1563875220225" duration="5052000" />
+      <workItem from="1563875220225" duration="5986000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReactangleTest_shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100 - 2019.07.23 at 19h 35m 26s.xml">
-      <configuration name="ReactangleTest.shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="ReactangleTest_shouldReturn0WhenExecuteSettingHeight0AndExcuteGetHeightGivenHeight100 - 2019.07.23 at 19h 37m 11s.xml">
-      <configuration name="ReactangleTest.shouldReturn0WhenExecuteSettingHeight0AndExcuteGetHeightGivenHeight100" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="ReactangleTest_shouldReturn5000WhenExecuteGetAreaAndGivenWidth100Height50 - 2019.07.23 at 19h 40m 34s.xml">
       <configuration name="ReactangleTest.shouldReturn5000WhenExecuteGetAreaAndGivenWidth100Height50" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -374,9 +350,15 @@
     <history-entry file="SquareTest_shouldReturn200WhenExecuteSettingLength200AndExcuteGetLengthGivenLength100 - 2019.07.23 at 20h 04m 15s.xml">
       <configuration name="SquareTest.shouldReturn200WhenExecuteSettingLength200AndExcuteGetLengthGivenLength100" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="ReactangleTest_shouldReturn11WhenExecuteChangeWidthGivenWidth5Height10 - 2019.07.23 at 20h 17m 20s.xml">
+      <configuration name="ReactangleTest.shouldReturn11WhenExecuteChangeWidthGivenWidth5Height10" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ReactangleTest_shouldReturn11WhenExecuteChangeWidthGivenWidth5Height10 - 2019.07.23 at 20h 20m 31s.xml">
+      <configuration name="ReactangleTest.shouldReturn11WhenExecuteChangeWidthGivenWidth5Height10" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5052000" />
+    <option name="totallyTimeSpent" value="5986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1077" extended-state="6" />
@@ -425,23 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ReactangleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="6" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -457,11 +422,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SquareTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="203">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReactangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
         </state>
       </provider>
     </entry>

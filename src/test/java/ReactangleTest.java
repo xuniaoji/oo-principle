@@ -68,5 +68,11 @@ public class ReactangleTest {
         } catch (Exception e) {}
     }
 
+    @Test
+    public void shouldReturn11WhenExecuteChangeWidthGivenWidth5Height10() {
+        Rectangle rectangle = new Rectangle(5, 10);
+        assertEquals(11, rectangle.changeWidth());
+    }
+
 
 }
