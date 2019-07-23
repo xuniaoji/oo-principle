@@ -26,4 +26,15 @@ public class ReactangleTest {
             assertEquals("invalid number",e.getMessage());
         }
     }
+
+    @Test
+    public void should0WhenExecuteSettingWidth0AndExcuteGetWidthGivenWidth100(){
+        RectangleTDD rectangle = new RectangleTDD(100);
+        try {
+            rectangle.setWidth(0);
+        } catch (Exception e) {
+            e.printStackTrace();
+            assertEquals(0,rectangle.getWidth());
+        }
+    }
 }
