@@ -1,9 +1,9 @@
-public class RectangleTDD {
-    int width;
+public class Rectangle {
+    private int width;
 
-    int height;
+    private int height;
 
-    public RectangleTDD(int width, int height) {
+    public Rectangle(int width, int height) {
         this.width = width;
         this.height = height;
     }
