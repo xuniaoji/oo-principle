@@ -54,6 +54,15 @@ public class ReactangleTest {
         }
     }
 
+    @Test
+    public void shouldReturn0WhenExecuteSettingHeight0AndExcuteGetHeightGivenHeight100(){
+        RectangleTDD rectangle = new RectangleTDD(0,100);
+        try {
+            rectangle.setHeight(0);
+        } catch (Exception e) {}
+        assertEquals(0, rectangle.getHeight());
+    }
+
 
 
 }
