@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="261331c2-abff-439e-8e14-885aa504a587" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/RectangleTDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RectangleTDD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ReactangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReactangleTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,13 +23,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ReactangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+            <state relative-caret-position="713">
+              <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.ReactangleTest.shouldReturn100WhenExecuteSettingHeight100AndExcuteGetHeightGivenWidth50">
+  <component name="RunManager" selected="Gradle.ReactangleTest.shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100">
     <configuration name="ReactangleTest.should0WhenExecuteSettingWidth0AndExcuteGetWidthGivenWidth100" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -222,12 +231,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ReactangleTest.shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ReactangleTest.shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ReactangleTest.shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100&quot;" />
+        <option name="scriptParameters" value="--tests &quot;ReactangleTest.shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -264,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ReactangleTest.shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100" />
         <item itemvalue="Gradle.ReactangleTest.shouldReturn100WhenExecuteSettingHeight100AndExcuteGetHeightGivenWidth50" />
         <item itemvalue="Gradle.ReactangleTest.should3WhenExecuteSettingWidth0AndExcuteGetWidthGivenWidth100" />
         <item itemvalue="Gradle.ReactangleTest.should0WhenExecuteSettingWidth0AndExcuteGetWidthGivenWidth100" />
         <item itemvalue="Gradle.ReactangleTest.shouldThrowErrorWhenExecuteSettingWidthMinus200AndExcuteGetWidthGivenWidth100" />
-        <item itemvalue="Gradle.ReactangleTest.shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100" />
       </list>
     </recent_temporary>
   </component>
@@ -282,14 +291,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563875212469</updated>
-      <workItem from="1563875220225" duration="3011000" />
+      <workItem from="1563875220225" duration="3353000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReactangleTest_shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100 - 2019.07.23 at 19h 00m 10s.xml">
-      <configuration name="ReactangleTest.shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="ReactangleTest_shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100 - 2019.07.23 at 19h 09m 43s.xml">
       <configuration name="ReactangleTest.shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -311,9 +317,18 @@
     <history-entry file="ReactangleTest_should3WhenExecuteSettingWidth0AndExcuteGetWidthGivenWidth100 - 2019.07.23 at 19h 24m 03s.xml">
       <configuration name="ReactangleTest.should3WhenExecuteSettingWidth0AndExcuteGetWidthGivenWidth100" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="ReactangleTest_shouldReturn100WhenExecuteSettingHeight100AndExcuteGetHeightGivenWidth50 - 2019.07.23 at 19h 30m 10s.xml">
+      <configuration name="ReactangleTest.shouldReturn100WhenExecuteSettingHeight100AndExcuteGetHeightGivenWidth50" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ReactangleTest_shouldReturn100WhenExecuteSettingHeight100AndExcuteGetHeightGivenWidth50 - 2019.07.23 at 19h 30m 31s.xml">
+      <configuration name="ReactangleTest.shouldReturn100WhenExecuteSettingHeight100AndExcuteGetHeightGivenWidth50" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ReactangleTest_shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100 - 2019.07.23 at 19h 35m 26s.xml">
+      <configuration name="ReactangleTest.shouldThrowErrorWhenExecuteSettingHeightMinus200AndExcuteGetHeightGivenHeight100" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3011000" />
+    <option name="totallyTimeSpent" value="3353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1077" extended-state="6" />
@@ -334,7 +349,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32994923" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32994923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ReactangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+        <state relative-caret-position="713">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
