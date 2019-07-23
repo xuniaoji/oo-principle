@@ -9,7 +9,10 @@ public class RectangleTDD {
         return width;
     }
 
-    public void setWidth(int width) {
+    public void setWidth(int width) throws Exception {
+        if (width<0) {
+            throw new Exception("invalid number");
+        }
         this.width = width;
     }
 }

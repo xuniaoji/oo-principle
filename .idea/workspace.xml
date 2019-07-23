@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="261331c2-abff-439e-8e14-885aa504a587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RectangleTDD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RectangleTDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RectangleTDD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ReactangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReactangleTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ReactangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            <state relative-caret-position="375">
+              <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,15 +41,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/RectangleTDD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="e#79#80#0" expanded="true" />
                 <element signature="e#113#114#0" expanded="true" />
                 <element signature="e#54#55#0" expanded="true" />
                 <element signature="e#82#83#0" expanded="true" />
-                <element signature="e#80#81#0" expanded="true" />
-                <element signature="e#114#115#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.ReactangleTest.shouldThrowErrorWhenExecuteSettingWidthMinus200AndExcuteGetWidthGivenWidth100">
     <configuration name="ReactangleTest.shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -184,8 +180,29 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="ReactangleTest.shouldThrowErrorWhenExecuteSettingWidthMinus200AndExcuteGetWidthGivenWidth100" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ReactangleTest.shouldThrowErrorWhenExecuteSettingWidthMinus200AndExcuteGetWidthGivenWidth100&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ReactangleTest.shouldThrowErrorWhenExecuteSettingWidthMinus200AndExcuteGetWidthGivenWidth100" />
         <item itemvalue="Gradle.ReactangleTest.shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100" />
       </list>
     </recent_temporary>
@@ -200,7 +217,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563875212469</updated>
-      <workItem from="1563875220225" duration="1785000" />
+      <workItem from="1563875220225" duration="2303000" />
     </task>
     <servers />
   </component>
@@ -208,9 +225,21 @@
     <history-entry file="ReactangleTest_shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100 - 2019.07.23 at 19h 00m 10s.xml">
       <configuration name="ReactangleTest.shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="ReactangleTest_shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100 - 2019.07.23 at 19h 09m 43s.xml">
+      <configuration name="ReactangleTest.shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ReactangleTest_shouldThrowErrorWhenExecuteSettingWidthMinus200AndExcuteGetWidthGivenWidth100 - 2019.07.23 at 19h 11m 53s.xml">
+      <configuration name="ReactangleTest.shouldThrowErrorWhenExecuteSettingWidthMinus200AndExcuteGetWidthGivenWidth100" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ReactangleTest_shouldThrowErrorWhenExecuteSettingWidthMinus200AndExcuteGetWidthGivenWidth100 - 2019.07.23 at 19h 16m 02s.xml">
+      <configuration name="ReactangleTest.shouldThrowErrorWhenExecuteSettingWidthMinus200AndExcuteGetWidthGivenWidth100" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ReactangleTest_shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100 - 2019.07.23 at 19h 17m 21s.xml">
+      <configuration name="ReactangleTest.shouldReturn200WhenExecuteSettingWidth200AndExcuteGetWidthGivenWidth100" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1785000" />
+    <option name="totallyTimeSpent" value="2303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1077" extended-state="6" />
@@ -224,14 +253,14 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24975075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.3297975" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32994923" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32994923" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32994923" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32994923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -261,23 +290,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RectangleTDD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="e#79#80#0" expanded="true" />
             <element signature="e#113#114#0" expanded="true" />
             <element signature="e#54#55#0" expanded="true" />
             <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ReactangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="375">
+          <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
