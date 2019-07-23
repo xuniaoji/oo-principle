@@ -63,6 +63,15 @@ public class ReactangleTest {
         assertEquals(0, rectangle.getHeight());
     }
 
+    @Test
+    public void shouldReturn5000WhenExecuteGetAreaAndGivenWidth100Height50(){
+        RectangleTDD rectangle = new RectangleTDD(100,50);
+        try {
+            assertEquals(5000, rectangle.getArea());
+        } catch (Exception e) {}
+
+    }
+
 
 
 }
