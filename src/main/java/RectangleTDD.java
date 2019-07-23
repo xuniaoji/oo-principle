@@ -1,8 +1,11 @@
 public class RectangleTDD {
     int width;
 
-    public RectangleTDD(int width) {
+    int height;
+
+    public RectangleTDD(int width, int height) {
         this.width = width;
+        this.height = height;
     }
 
     public int getWidth() {
@@ -14,5 +17,13 @@ public class RectangleTDD {
             throw new Exception("invalid number");
         }
         this.width = width;
+    }
+
+    public int getHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
     }
 }

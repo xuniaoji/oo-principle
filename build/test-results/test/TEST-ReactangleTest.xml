@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ReactangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-23T11:21:23" hostname="CNshuming" time="0.002">
+<testsuite name="ReactangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-23T11:30:31" hostname="CNshuming" time="0.001">
   <properties/>
-  <testcase name="should0WhenExecuteSettingWidth0AndExcuteGetWidthGivenWidth100" classname="ReactangleTest" time="0.002"/>
+  <testcase name="shouldReturn100WhenExecuteSettingHeight100AndExcuteGetHeightGivenWidth50" classname="ReactangleTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
