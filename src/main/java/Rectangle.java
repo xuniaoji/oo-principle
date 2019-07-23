@@ -34,8 +34,7 @@ public class Rectangle {
     public int changeWidth() {
         if(width <= height) {
             width = height + 1;
-            return width;
         }
-        return 0;
+        return width;
     }
 }

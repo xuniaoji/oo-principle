@@ -74,5 +74,11 @@ public class ReactangleTest {
         assertEquals(11, rectangle.changeWidth());
     }
 
+    @Test
+    public void shouldReturn12WhenExecuteChangeWidthGivenWidth12Height10() {
+        Rectangle rectangle = new Rectangle(12, 10);
+        assertEquals(12, rectangle.changeWidth());
+    }
+
 
 }
